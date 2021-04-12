@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello there!  
 
 <!--
-**Myself-Fox/Myself-Fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Myself-Fox/Myself-Fox** 
+is a ✨ _special_ ✨ repository 
+because its `README.md` (this file) 
+appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 Who am I? 
+I'm just a random person who likes coding :)
+
+🙃 My favorite programming languages? 
+JavaScript and Kotlin.
+
+🌌 'Don't let you become a const, be always a var :D' 
