@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 😄 Who am I? 
-I'm just a random person who likes coding :)
+I'm just a random person who likes coding & 🦊 :)
 
 🙃 My favorite programming languages? 
 JavaScript and Kotlin.
